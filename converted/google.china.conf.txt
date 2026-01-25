@@ -1,715 +1,143 @@
-[/265.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/2mdn-cn.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/2mdn.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/admob-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/adservice.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/app-analytics-services.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/app-measurement-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/app-measurement.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/apps5.oingo.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/avail.googleflights.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/beacons.gcp.gvt2.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/beacons.gvt2.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/beacons2.gvt2.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/beacons3.gvt2.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/c.admob.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/c.android.clients.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/c.pki.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/cache-management-prod.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/cache.pack.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/checkin.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/clickserve.cc-dt.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/clickserve.dartsearch.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/clickserver.googleads.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/clientservices.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/cn.widevine.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/cnappinstall.googleadapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/connectivitycheck.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/content.googleadapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/crashlyticsreports-pa.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/crl.pki.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/csi.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/dartsearch-cn.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/dg-meta.video.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/dl.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/dl.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/doubleclick-cn.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/doubleclick.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/download.mlcc.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/download.qatp1.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/download.tensorflow.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/emmapplecodevice.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/firebase-settings.crashlytics.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/fontfiles.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/fonts.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/fonts.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/g0.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/g1.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/g2.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/g3.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/go.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/gonglchuangl.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/gongyichuangyi.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/google-analytics-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/google-analytics.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleadservices-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleadservices.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleanalytics.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleapis-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleapps-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleflights-cn.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleoptimize-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googleoptimize.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googlesyndication-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googlesyndication.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googletagmanager-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googletagmanager.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googletagservices-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googletagservices.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googletraveladservices-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googletraveladservices.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/googlevads-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/gstatic-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/gstaticadssl.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/gtm.oasisfeng.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/gvt1-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/gvt2-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/imasdk.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/l2-uberproxy.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/logger-dev.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/logger.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/login.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/monitoring.qpdp1.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/ocsp.pki.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/pagead-googlehosted.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/performanceparameters.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/pki-goog.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/prod-controlbe.floonet.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/prod-databe.floonet.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/prod.databe.floonet.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/proxyconfig.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/qagpublic.qatp1.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/qgadmin.qcpp1.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/qiao-cn.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/qpx.googleflights.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/qualysapi.qatp1.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/qualysguard.qpdp1.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/r.cert.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/rapture-prod.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/recaptcha-cn.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/recaptcha.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.bdn.dev/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.c.chat.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.c.mail.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.c.pack.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.c.play.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.c.youtubeeducation.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.gcpcdn.gvt1.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.gvt1.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.offline-maps.gvt1.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.snap.gvt1.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/redirector.xn--ngstr-lra8j.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/safebrowsing-cache.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/safebrowsing.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/scanservice1.qcpp1.net/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/service.urchin.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/ssl-google-analytics.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/ssl.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/sslredirect.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/staging-controlbe.floonet.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/staging-databe.floonet.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/staging.databe.floonet.goog/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/streaming-uberproxy-rotation.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/streaming-uberproxy.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/sup-ssh-relay.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/sup-ssh-relay2.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/sup.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/sup.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/tac.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/test.gbugs-qa.chromium.org/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/tools.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/tools.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/uberproxy-debug4.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/uberproxy.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/uberproxy6.corp.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/update.crashlytics.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/update.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/wear.googleapis.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/www-google-analytics.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/www-googletagmanager.l.google.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/www.destinationurl.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/www.gstatic.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/www.pxcc.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
-[/xn--flw351e.com/]quic://dns.alidns.com
-https://dns.alidns.com/dns-query
-https://doh.pub/dns-query
-221.7.92.98
-221.5.203.98
+[/265.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/2mdn-cn.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/2mdn.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/admob-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/adservice.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/app-analytics-services.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/app-measurement-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/app-measurement.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/apps5.oingo.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/avail.googleflights.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/beacons.gcp.gvt2.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/beacons.gvt2.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/beacons2.gvt2.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/beacons3.gvt2.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/c.admob.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/c.android.clients.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/c.pki.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/cache-management-prod.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/cache.pack.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/checkin.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/clickserve.cc-dt.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/clickserve.dartsearch.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/clickserver.googleads.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/clientservices.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/cn.widevine.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/cnappinstall.googleadapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/connectivitycheck.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/content.googleadapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/crashlyticsreports-pa.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/crl.pki.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/csi.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/dartsearch-cn.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/dg-meta.video.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/dl.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/dl.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/doubleclick-cn.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/doubleclick.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/download.mlcc.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/download.qatp1.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/download.tensorflow.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/emmapplecodevice.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/firebase-settings.crashlytics.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/fontfiles.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/fonts.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/fonts.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/g0.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/g1.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/g2.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/g3.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/go.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/gonglchuangl.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/gongyichuangyi.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/google-analytics-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/google-analytics.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleadservices-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleadservices.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleanalytics.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleapis-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleapps-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleflights-cn.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleoptimize-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googleoptimize.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googlesyndication-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googlesyndication.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googletagmanager-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googletagmanager.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googletagservices-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googletagservices.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googletraveladservices-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googletraveladservices.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/googlevads-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/gstatic-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/gstaticadssl.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/gtm.oasisfeng.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/gvt1-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/gvt2-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/imasdk.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/l2-uberproxy.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/logger-dev.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/logger.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/login.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/monitoring.qpdp1.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/ocsp.pki.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/pagead-googlehosted.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/performanceparameters.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/pki-goog.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/prod-controlbe.floonet.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/prod-databe.floonet.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/prod.databe.floonet.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/proxyconfig.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/qagpublic.qatp1.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/qgadmin.qcpp1.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/qiao-cn.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/qpx.googleflights.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/qualysapi.qatp1.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/qualysguard.qpdp1.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/r.cert.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/rapture-prod.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/recaptcha-cn.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/recaptcha.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.bdn.dev/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.c.chat.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.c.mail.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.c.pack.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.c.play.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.c.youtubeeducation.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.gcpcdn.gvt1.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.gvt1.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.offline-maps.gvt1.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.snap.gvt1.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/redirector.xn--ngstr-lra8j.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/safebrowsing-cache.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/safebrowsing.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/scanservice1.qcpp1.net/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/service.urchin.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/ssl-google-analytics.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/ssl.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/sslredirect.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/staging-controlbe.floonet.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/staging-databe.floonet.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/staging.databe.floonet.goog/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/streaming-uberproxy-rotation.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/streaming-uberproxy.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/sup-ssh-relay.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/sup-ssh-relay2.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/sup.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/sup.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/tac.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/test.gbugs-qa.chromium.org/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/tools.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/tools.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/uberproxy-debug4.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/uberproxy.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/uberproxy6.corp.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/update.crashlytics.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/update.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/wear.googleapis.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/www-google-analytics.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/www-googletagmanager.l.google.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/www.destinationurl.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/www.gstatic.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/www.pxcc.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
+[/xn--flw351e.com/]quic://dns.alidns.com https://dns.alidns.com/dns-query https://doh.pub/dns-query 221.7.92.98 221.5.203.98
